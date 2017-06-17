@@ -1,0 +1,53 @@
+{
+    "Cocktail": [{
+       "name" : "Batida Brasil"
+                "Zutaten" : [["Cachaca", 3 , "cl"], ["Batida de Coco", 2 , "cl"], ["Kokossirup", 2, "cl"],["Sahne", 2 , "cl"]
+                ["Ananas-Saft", 8, "cl"]]
+                 "Farbe" : "#ffffff"
+                 },{
+        "name": "Flying Kangaroo"
+                 "Zutaten" : [["Wodka Gorbatschow", 2, "cl"] ,["Rum", 2, "cl"] ,[ "Kokossirup",2,"cl"],["Sahne",2,"cl"] ,["Ananas-Saft",6,"cl"] ,["Orangensaft",6,"cl"] ,["Vanillelikör",1, "cl"]]
+                 "Farbe": "#FBFEE3" },{
+         "name":"Tequilla Sunrise"
+                  "Zutaten" : [[ "Grenadinsirup", 1, "cl" ] , [ "Zitronensaft", 1, "cl2"],["Orangensaft", 12, "cl"], ["Tequilla",6 , "cl"],["Crushed Ice", 4, "Eiswürfel"]]
+                  "Farbe" :"F0AD3F"},{
+         "name":"Cairo Cocktail"
+                  "Zutaten" : [["Wodka", 4 , "cl"],["Zitronensaft",2, "cl"],["Mandelsirup", 2 , "cl"],["Orangensaft", 12 , "cl"],["Blue Curacao", 2, "cl"],["Crushed Ice", 4 , "Eiswürfel"]]
+                 "Farbe" : "#2FD54D"},{
+         "name":"Blue Hawaiian"
+                 "Zutaten" : [["Rum,weiss", 2 , "cl"],["Ananassaft", 6, "cl"],["Cream of Coconut", 2 , "cl"],["Blue Curacao",2 , "cl"],["Crushed Ice", 20, "cl"]]
+                 "Farbe" : "#44D1EA"},{
+         "name" : "Watermelon Man"
+                 "Zutaten" : [["Wodka", 4 , "cl"],["Grenadinsirup", 2, "cl"],["Zitronensaft", 2, "cl"],["Melonenlikör", 2, "cl"],["Crushed Ice", 4, "Eiswürfel"]]
+                 "Farbe": "#F17269"},{
+         "name" : "Bloody Mary"
+                 "Zutaten" : [["Wodka", 4.5, "cl"],["Zitronensaft", 1.5, "cl"],["Tomatensaft", 9, "cl"],["Crushed Ice", 4 , "Eiswürfel"]]
+                 "Farbe" : "#C9160A"},{
+         "name" : "Cuba Libre"
+                 "Zutaten": [["Rum", 4, "cl"],["Limette", 0.5 ,"Stück"],["Cola", 15, "cl"],["Crushed Ice", 4 ,"Eiswürfel"]]
+                 "Farbe" : "#7A4C46"},{
+         "name" : "Bahama Mama"
+                 "Zutaten" : [["Grenadinsirup", 1, "cl"],["Zitronensaft", 1 ,"cl"],["Rum,weiss", 2, "cl"],["Rum,braun", 4, "cl"],["Orangensaft", 4, "cl"],["Ananassaft",4,"cl"],["Whiskeylikör", 2, "cl"],["Crushed Ice", 4 , "Eiswürfel"]]
+                 "Farbe" : "#F28110"},{
+         "name": "Brasilian Sunrise"
+                 "Zutaten" : [["Grenadinsirup", 2 , "cl"],["Zitronensaft",1,"cl"],["orangensaft", 10 ,"cls"],["Cachaca", 4, "cl"],["Crushed Ice", 4 ,"Eiswürfel"]]
+                 "Farbe" : "#F25959"},{
+        "name" : "42er AssKicker"
+                "Zutaten": [["Jägermeister", 2, "cl"],["Sambuca", 2 , "cl"],["Wodka",2 ,"cl"]]
+
+                 }
+                 
+               
+                
+                 }                              ]
+}
+
+
+
+
+
+
+
+
+
+

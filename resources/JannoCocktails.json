@@ -1,29 +1,41 @@
 {
     "Cocktail": [
                  {"name" : "Mojito",
-                 "Zutaten" : [ "Rum, kubanisch", 5, "cl"], ["Limettesaft", 2.5,"cl"], [7, "Blätter", "Minze"], ["Zuckersirup", 2, "cl"], ["Sodawasser", 4, "cl"], ["Crushed Ice"]}
+                 "Zutaten" : [ "Rum, kubanisch", 5, "cl"], ["Limettesaft", 2.5,"cl"], [7, "Blätter", "Minze"], ["Zuckersirup", 2, "cl"], ["Sodawasser", 4, "cl"], ["Crushed Ice"]
+                 "Alkohol" : true}
                  {"name" : "Caipirinha",
-                 "Zutaten" : ["Limetten", 1], ["Cahaca", 5, "cl"], ["Rohrzucker", 2 "BL"], ["Limettensaft", 1, "cl"], ["Rum, weiss", 2, "cl"], ["Rum, braun", 2, "cl"], ["Kokossirup", 2, "cl"], ["Sahne", 2, "cl"], ["Ananas-Saft", 8, "cl"]}
+                 "Zutaten" : ["Limetten", 1], ["Cahaca", 5, "cl"], ["Rohrzucker", 2 "BL"], ["Limettensaft", 1, "cl"], ["Rum, weiss", 2, "cl"], ["Rum, braun", 2, "cl"], ["Kokossirup", 2, "cl"], ["Sahne", 2, "cl"], ["Ananas-Saft", 8, "cl"]
+                 "Alkohol" : true}
                  {"name" : "Sex on the Beach",
-                 "Zutaten" : ["Wodka Gorbatschow", 4, "cl"], ["Pfirsichlikör", 2, "cl"], ["Orangensaft", 4, "cl"], ["Cranberrysaft", 4, "cl"]}
+                 "Zutaten" : ["Wodka Gorbatschow", 4, "cl"], ["Pfirsichlikör", 2, "cl"], ["Orangensaft", 4, "cl"], ["Cranberrysaft", 4, "cl"]
+                 "Alkohol" : true}
                  {"name" : "Moscow Mule",
-                 "Zutaten" : ["Wodka", 4, "cl"], ["Limettensaft", 2, "cl"], ["Ginger Beer", 200, "ml"], ["Gurkenscheiben", 6], ["Crushed Ice"]}
+                 "Zutaten" : ["Wodka", 4, "cl"], ["Limettensaft", 2, "cl"], ["Ginger Beer", 200, "ml"], ["Gurkenscheiben", 6], ["Crushed Ice"]
+                 "Alkohol" : true}
                  {"name" : "Klassisches Mai Tai",
-                 "Zutaten" : ["Rum, jamaikanisch", 6, "cl"], ["Curaçao Orange", 2, "cl"], ["Mandelsirup", 1, "cl"], ["Zuckersirup", 1, "cl"], ["Limettensaft", 2, "cl"]}
+                 "Zutaten" : ["Rum, jamaikanisch", 6, "cl"], ["Curaçao Orange", 2, "cl"], ["Mandelsirup", 1, "cl"], ["Zuckersirup", 1, "cl"], ["Limettensaft", 2, "cl"]
+                 "Alkohol" : true}
                  {"name" : "Mai Tai",
-                 "Zutaten" : ["Rum, weiss", 3, "cl"], ["Rum, braun", 3, "cl"] ["Triple Sec", 2, "cl"], ["Mandelsirup", 1, "cl"], ["Limettensaft", 1, "cl"], ["Limettensaft", 1, "cl"], ["Orangensaft", 3, "cl"], ["Ananassaft", 3, "cl"], ["Crushed Ice"], ["Cocktailkirsche"], ["Minze"]}
+                 "Zutaten" : ["Rum, weiss", 3, "cl"], ["Rum, braun", 3, "cl"] ["Triple Sec", 2, "cl"], ["Mandelsirup", 1, "cl"], ["Limettensaft", 1, "cl"], ["Limettensaft", 1, "cl"], ["Orangensaft", 3, "cl"], ["Ananassaft", 3, "cl"], ["Crushed Ice"], ["Cocktailkirsche"], ["Minze"]
+                 "Alkohol" : true}
                  {"name" : "Martini",
-                 "Zutaten" : ["Gin", 6, "cl"], ["Dry Vermouth", 1, "cl"]}
+                 "Zutaten" : ["Gin", 6, "cl"], ["Dry Vermouth", 1, "cl"]
+                 "Alkohol" : true}
                  {"name" : "Cosmopolitian",
-                 "Zutaten" : ["Cointreau", 1, "cl"], ["Wodka", 3, "cl"], ["Cranberrysaft", 4, "cl"], ["Limettensaft", 1, "cl"]}
+                 "Zutaten" : ["Cointreau", 1, "cl"], ["Wodka", 3, "cl"], ["Cranberrysaft", 4, "cl"], ["Limettensaft", 1, "cl"]
+                 "Alkohol" : true}
                  {"name" : "Daiquiri",
-                 "Zutaten" : ["Rum, weiss", 5, "cl"], ["Wodka", 3, "cl"], ["Cranberrysaft", 4, "cl"], ["Limettensaft", 1, "cl"]}
+                 "Zutaten" : ["Rum, weiss", 5, "cl"], ["Wodka", 3, "cl"], ["Cranberrysaft", 4, "cl"], ["Limettensaft", 1, "cl"]
+                 "Alkohol" : true}
                  {"name" : "Maragrita",
-                 "Zutaten" : ["Tequila", 5, "cl"], ["Triple Sec", 3, "cl"] ["Zitronensaft", 2, "cl"], ["Crushed Ice"], ["Salz"]}
+                 "Zutaten" : ["Tequila", 5, "cl"], ["Triple Sec", 3, "cl"] ["Zitronensaft", 2, "cl"], ["Crushed Ice"], ["Salz"]
+                 "Alkohol" : true}
                  {"name" : "Gin Tonic",
-                 "Zutaten" : ["Gin", 4, "cl"], ["Tonic Water"], ["Limette"]}
+                 "Zutaten" : ["Gin", 4, "cl"], ["Tonic Water"], ["Limette"]
+                 "Alkohol" : true}
                  {"name" : "Zombie",
-                 "Zutaten" : ["Rum, braun", 4, "cl"], ["Rum, weiss", 4, "cl"],["Rum, overproof", 2, "cl"], ["Cointreau", 2, "cl"] ["Grenadinensirup", 2, "cl"], ["Maracujasirup", 2, "cl"], ["Ananassaft", 4, "cl"], ["Orangensaft", 4, "cl"], ["Zitronensaft", 4, "cl"]}
+                 "Zutaten" : ["Rum, braun", 4, "cl"], ["Rum, weiss", 4, "cl"],["Rum, overproof", 2, "cl"], ["Cointreau", 2, "cl"] ["Grenadinensirup", 2, "cl"], ["Maracujasirup", 2, "cl"], ["Ananassaft", 4, "cl"], ["Orangensaft", 4, "cl"], ["Zitronensaft", 4, "cl"]
+                 "Alkohol" : true}
     
     ]
 }

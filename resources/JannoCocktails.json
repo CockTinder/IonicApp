@@ -20,6 +20,11 @@
                  "Zutaten" : ["Rum, weiss", 5, "cl"], ["Wodka", 3, "cl"], ["Cranberrysaft", 4, "cl"], ["Limettensaft", 1, "cl"]}
                  {"name" : "Maragrita",
                  "Zutaten" : ["Tequila", 5, "cl"], ["Triple Sec", 3, "cl"] ["Zitronensaft", 2, "cl"], ["Crushed Ice"], ["Salz"]}
+                 {"name" : "Gin Tonic",
+                 "Zutaten" : ["Gin", 4, "cl"], ["Tonic Water"], ["Limette"]}
+                 {"name" : "Zombie",
+                 "Zutaten" : ["Rum, braun", 4, "cl"], ["Rum, weiss", 4, "cl"],["Rum, overproof", 2, "cl"], ["Cointreau", 2, "cl"] ["Grenadinensirup", 2, "cl"], ["Maracujasirup", 2, "cl"], ["Ananassaft", 4, "cl"], ["Orangensaft", 4, "cl"], ["Zitronensaft", 4, "cl"]}
     
     ]
 }
+
